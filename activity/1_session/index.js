@@ -1,7 +1,7 @@
 // Ejercicio 1
-//console.log("Antes del import");
+console.log("Antes del import");
 import "./aboutme.js";
-//console.log("Ejercicio 1");
+console.log("Ejercicio 1");
 
 
 // Ejercicio 2
